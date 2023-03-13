@@ -18,7 +18,7 @@ string status2(double rata,double nil){
   else
       return "gagal";
 }
-
+#
 int main(){
   double nilM,nilB;
   cout << "Masukan nilai Matematika = ";
